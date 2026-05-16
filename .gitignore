@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+*.log
+.env
+.env.local
+
+# Local-only working files — not part of the public manifesto
+CLAUDE.md
+raw-notes/
