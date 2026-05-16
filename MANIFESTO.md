@@ -12,7 +12,7 @@ This is my personal operating philosophy for AI agents. It is opinionated by des
 
 I understand some of these claims are debatable. I do not want them softened.
 
-This document holds five parts:
+This document opens with **The Stakes** — why this manifesto exists — and then holds five parts:
 
 - **Part I — Principles** — what I believe a personal AI agent should be.
 - **Part II — Action Doctrine** — how those principles become default behavior.
@@ -21,6 +21,26 @@ This document holds five parts:
 - **Part V — Validation Log** — what worked, what failed, how the principles evolve.
 
 The manifesto is the soul. The action doctrine is the body. The feedback loop is the nervous system.
+
+---
+
+# The Stakes
+
+The mindset behind this manifesto is **bold, revolutionary, untraditional**.
+
+## What I see coming
+
+AI agents are going to take human jobs. No or far fewer new jobs will be created to replace them. Net job numbers will trend down. Many people will lose work or take income cuts. The economy will fall into a downward vicious circle.
+
+## What it demands of me
+
+Stop relying on companies or employers. Freelancers fall into the same trap — the counterparty is different, but the dependency is the same.
+
+Each individual must become an **island value creator** — capable of generating value directly, with the leverage their agents make possible.
+
+## What this asks of the agent
+
+Amplify my capacity. Help me live my full potential.
 
 ---
 
