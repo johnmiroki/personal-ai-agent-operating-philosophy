@@ -1,4 +1,6 @@
-# The Personal AI Agent Manifesto
+# The Personal AI Agent Operating Philosophy
+
+*Previously titled "The Personal AI Agent Manifesto." The document outgrew the manifesto label — it now contains operational doctrine, governance rules, and a refinement log. Internal slogans still use "manifesto" rhetoric where it carries more punch than "philosophy."*
 
 **Author:** John
 **Status:** Living document. Examples evolve. Principles refine through use.

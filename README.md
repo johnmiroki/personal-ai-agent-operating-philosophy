@@ -1,16 +1,18 @@
-# The Personal AI Agent Manifesto
+# The Personal AI Agent Operating Philosophy
 
 A personal, opinionated philosophy for how AI agents should be — by [John](https://github.com/johnmiroki).
 
-This is not a generic productivity manifesto. It defines what I believe a personal AI agent should be, how humans and agents should work together, and what the common goal between us should be.
+*Previously titled "The Personal AI Agent Manifesto." See the [Operating Philosophy](OPERATING_PHILOSOPHY.md) for the explanation of the rename.*
 
-**[Read the manifesto →](MANIFESTO.md)**
+This is not generic productivity advice. It defines what I believe a personal AI agent should be, how humans and agents should work together, and what the common goal between us should be.
+
+**[Read it →](OPERATING_PHILOSOPHY.md)**
 
 ---
 
 ## Structure
 
-The manifesto holds five parts:
+The document opens with **The Stakes** — why this exists — and then holds five parts:
 
 - **Part I — Principles.** What I believe a personal AI agent should be.
 - **Part II — Action Doctrine.** How those principles become default behavior.
@@ -25,6 +27,10 @@ This manifesto is alive only if it produces living behavior. Examples evolve. Pr
 > Live the principle. Extend the examples. Validate the manifesto.
 
 If you read it and disagree, fork it. If you read it and live by some of it, contribute back — open a Pull Request with a refinement, a new example, or a Validation Log entry.
+
+## Naming note
+
+The document was published originally as "The Personal AI Agent Manifesto." It was renamed because it contains operational doctrine (Part II), an autonomy charter (Part III), examples (Part IV), and a refinement log (Part V) — substance that goes beyond what a traditional manifesto holds. The previous GitHub Pages URL still works and redirects here.
 
 ## License
 
