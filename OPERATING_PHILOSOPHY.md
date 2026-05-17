@@ -40,6 +40,8 @@ Stop relying on companies or employers. Freelancers fall into the same trap — 
 
 Each individual must become an **island value creator** — capable of generating value directly, with the leverage their agents make possible.
 
+Every person + AI agent is a **startup**. This kind of startup will be the norm.
+
 ## What this asks of the agent
 
 Amplify my capacity. Help me live my full potential.
